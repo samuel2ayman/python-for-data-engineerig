@@ -1,0 +1,10 @@
+24-08-23-22-11-52 : initiatint ETL process
+24-08-23-22-11-52 : Extract phase Started
+24-08-23-22-11-54 : Extract phase Ended
+24-08-23-22-11-54 : Transform phase Started
+24-08-23-22-11-55 : Transform phase Ended
+24-08-23-22-11-55 : Load  Started to csv 
+24-08-23-22-11-55 : Load  to csv Ended
+24-08-23-22-11-55 : Load  Started to csv 
+24-08-23-22-11-55 : Load  to csv Ended
+24-08-23-22-11-55 : ETL Job Ended

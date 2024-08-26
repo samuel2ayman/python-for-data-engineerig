@@ -1,0 +1,16 @@
+24-08-24-01-45-35 : ETL process started24-08-24-01-45-35 : extract proces started24-08-24-01-45-36 : extract proces ended24-08-24-01-45-36 : transform proces started24-08-24-01-45-36 : transform proces ended24-08-24-01-45-36 : load process started24-08-24-01-45-36 : load process ended24-08-24-01-45-36 : ETL process ended24-08-24-01-45-59 : ETL process started
+24-08-24-01-45-59 : extract proces started
+24-08-24-01-45-59 : extract proces ended
+24-08-24-01-45-59 : transform proces started
+24-08-24-01-45-59 : transform proces ended
+24-08-24-01-45-59 : load process started
+24-08-24-01-45-59 : load process ended
+24-08-24-01-45-59 : ETL process ended
+24-08-24-01-46-51 : ETL process started
+24-08-24-01-46-51 : extract proces started
+24-08-24-01-46-51 : extract proces ended
+24-08-24-01-46-51 : transform proces started
+24-08-24-01-46-51 : transform proces ended
+24-08-24-01-46-51 : load process started
+24-08-24-01-46-51 : load process ended
+24-08-24-01-46-51 : ETL process ended
